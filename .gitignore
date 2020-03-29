@@ -1,3 +1,8 @@
-/Cargo.lock
-/target
-**/*.rs.bk
+#Web
+web/Cargo.lock
+web/target
+web/**/*.rs.bk
+
+#db
+db/data
+db/logs
